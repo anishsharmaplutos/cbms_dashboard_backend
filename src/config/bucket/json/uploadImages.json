@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "plutosone-dev-project",
+    "private_key_id": "af40db7a775b6456b7ce1dc8f707694c872a8b62",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtMZSoXC27yO7n\niYa44RnoqGL/JvHNKbkZwi3ihimxUkRSiVPhb+4zzjOpZHehHe67sSAQzUvXNtSz\nMvinJZuBrt4ARdKTTKPIW0zKxbZNrn8s6Yhqo1n2ncFWpNmznzpC9yh20L+Gt6rM\neLbyWlSlyXCTo5Fa8RXCt2N27K9EHG5uakoYlFrh1zj6Au86ilZh4EowG7hG7UzK\n0nmf0r7VXPNYYJYOW1rV9xcurWmuTmLmViyDFjUaIh8ookx3F20lxYI4PX2PnDzb\nc4v9Iid3ARZoj4/QNT8+A/jY0AhhNAR2YI7j0EC2oDLhaDEn9Pizwjr6SG5HaN1A\n+4peAye3AgMBAAECggEAIRnYRSM09G5vRp5QutX+2yoPnZ9mWGVQhL1JgsFMh6Dn\nAPVRLEV1u739vrK+cHMllQbBz6RFCfFnToZ/4oY8BdmTgW7W06MyrFDSyPBnqsoe\ncUmC8oqc35cABBzGpN9aRcEyIR89c7R3ttOdd41PH050Lyt0VPK9y3S8VFbhGn2Z\ns1yWrk44nSA7AFglwX3/IgPRxa1ZGLvAiXy17JkG8C2fo5iG3PHcfz+kgFCX3+9J\nxUqcKlEcoDp4c5dDWI5SjABbKYjvkMvTqdWfyJkGwtr6pfw3o0Z2ceN1v/Gu/gnJ\nXAO7RF9oTa3uGQ1IE/XrGDede4Bg+ib5RvAwDWSIzQKBgQDouj1aTETD1yevNw/P\nB6E9YWLFWE3yH1+DVrGqceot/xBI/dzg5YkCJSBwQiBC7DwD2lFQ8eXCsM2noDVF\nsaLOnY/BHFDRz7UeoiiaCwpuICREsQGMESlee32DS5JUy2r5BK0HXSMqlmVyPi5e\nd/KDOZN79WlYwigHr78XbcOWewKBgQC+g0qaH3S3xD+N1mIs3iXRO4mczpVrh4Zn\nNkbbZSd5YUS6mPh2WmaBQjFfYW+lE5OOv5JqDeXreIYbnt97dRF4j7E/3AWqNkYA\n8+3yyhFxLI+C4IFxS7YDHAbJ2fpeagVuiHpY9IyDrwRXDb4Y2OgffZTPnNAIHMNv\nvDqUPbUs9QKBgGdUWW1AM7/oRXxsLB61uodwN9R7MpBwEY5U7alJzroBZ4+g93L7\nNuu25EIzefN8w+DKDBSucl8Q9R6Z6U06Y5jtKCiLk+60FCy3vuM2R7lBmBjPpmo0\nLHQAzGeBJEV109cgllqQpc6A3CXvKdNT2l8dLzh4a/+2pONUyrlySMcFAoGBAJxK\nz3gTWEiuSklNWGtgr/uv8VxgKjr2CvA/me/BU5oDj0PZ3PQTg8aFDEYohFQT9FkG\nltJEppv/211rgAIjb3rNv2cZVNhoABQmCc7FsXt8SBvhnK/aoe55HqSYHAs6xUwB\n0QWLUn9xpIjacFqoD/5NoziTeCM/naHb9N7KpQjFAoGASV5E+hCpn/wwie56vpL7\ncuEZIxQImDaA4L46/9AZIvFmaUOzSanNGlQpsEwkl0ItVWMXCRfwo+RdocYQx6q6\nNUE5iTyZUIvGXH28xKIJU7Ati3Mko3lntX15Ws56MfGzLI2NhIyq5rO7qAyNn8xo\nGBhrnAXHKCIeDOE3nnIO8a8=\n-----END PRIVATE KEY-----\n",
+    "client_email": "plutosone-dev-project@plutosone-dev-project.iam.gserviceaccount.com",
+    "client_id": "111855663910687064406",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/plutosone-dev-project%40plutosone-dev-project.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
